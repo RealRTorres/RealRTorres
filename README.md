@@ -34,6 +34,8 @@ Unordered list
 
 **Favorite language:** SQL
 
+**Currently learning:** AWS Cloud Essentials
+
 **💬 Ask me about:** Social Science, Databases, Video Games, Anime
 
 **😄 Pronouns:** she/they
