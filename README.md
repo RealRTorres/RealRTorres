@@ -40,4 +40,4 @@ Unordered list
 
 **😄 Pronouns:** she/they
 
-**⚡ Fun fact:** Luke Skywaker was originally named Luke Skykiller.
+**⚡ Fun fact:** Did you know web version control dates back all the way to the 1960s?
